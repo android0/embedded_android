@@ -27,7 +27,7 @@ Translate synergistically embedded android
 1. `git remote update upstream`  把android0的修改更新到本地
 2. `git rebase upstream/master` 更新合并
 
-
+##markdown [help](https://help.github.com/articles/markdown-basics/)
 
 ##Contents
 
