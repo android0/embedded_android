@@ -10,6 +10,7 @@ Translate synergistically embedded android
 史思远：我选第１章了，大家别跟我抢啊。。  
 王新锋：第二章，我先翻译着，比较晦涩～  
 郭鹏宇：第4章：编译系统  
+
 ##github help
 
 * 初始化项目
