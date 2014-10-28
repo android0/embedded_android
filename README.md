@@ -6,7 +6,8 @@ Translate synergistically embedded android
 ##描述:
 
 * 大家业余时间充分利用起来，练练英语，学学android 
-
+协同分工：
+史思远：我选第１章了，大家别跟我抢啊。。
 
 ##github help
 
