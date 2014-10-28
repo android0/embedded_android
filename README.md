@@ -6,7 +6,8 @@ Translate synergistically embedded android
 ##描述:
 
 * 大家业余时间充分利用起来，练练英语，学学android 
-
+协同分工：
+史思远：我选第１章了，大家别跟我抢啊。。
 
 ##github help
 
@@ -31,8 +32,8 @@ Translate synergistically embedded android
 
 ##Contents
 
-#Preface
-#1. Introduction
+###Preface
+###1. Introduction
 * History
 * Features and Characteristics
 * Development Model
@@ -52,7 +53,8 @@ Translate synergistically embedded android
 * Compliance Definition Document
 * Compliance Test Suite
 * Development Setup and Tools
-#2. Internals Primer
+
+###2. Internals Primer
 * App Developer’s View 
 * Android Concepts
 * Framework Intro
@@ -87,7 +89,8 @@ Translate synergistically embedded android
 * A Service Example: the Activity Manager
 * Stock AOSP Packages
 * System Startup
-#3. AOSP Jump-Start
+
+###3. AOSP Jump-Start
 * Development Host Setup
 * Getting the AOSP
 * Inside the AOSP
@@ -97,7 +100,8 @@ Translate synergistically embedded android
 * Running Android
 * Using the Android Debug Bridge (ADB)
 * Mastering the Emulator
-#4. The Build System
+
+###4. The Build System
 * Comparison with Other Build Systems
 * Architecture
 * Configuration
@@ -124,7 +128,8 @@ Translate synergistically embedded android
 * Adding an App Overlay
 * Adding a Native Tool or Daemon
 * Adding a Native Library
-#5. Hardware Primer
+
+###5. Hardware Primer
 * Typical System Architecture
 * The Baseband Processor
 * Core Components
@@ -135,7 +140,8 @@ Translate synergistically embedded android
 * Memory Layout and Mapping
 * Development Setup
 * Evaluation Boards
-#6. Native User-Space
+
+###6. Native User-Space
 * Filesystem
 * The Root Directory
 * /system
@@ -164,7 +170,8 @@ Translate synergistically embedded android
 * Global Properties
 * ueventd
 * Boot Logo
-#7. Android Framework
+
+###7. Android Framework
 * Kick-Starting the Framework
 * Core Building Blocks
 * System Services
@@ -183,9 +190,10 @@ Translate synergistically embedded android
 * keystore
 * Other Support Daemons
 * Hardware Abstraction Layer
-#A. Legacy User-Space
-#B. Adding Support for New Hardware
-#C. Customizing the Default Lists of Packages
-#D. Default init.rc Files
-#E. Resources
-#Index
+
+###A. Legacy User-Space
+###B. Adding Support for New Hardware
+###C. Customizing the Default Lists of Packages
+###D. Default init.rc Files
+###E. Resources
+###Index
